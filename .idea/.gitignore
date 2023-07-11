@@ -7,7 +7,4 @@
 /dataSources/
 /dataSources.local.xml
 # PhP Storm file
-modules.xml
-php.xml
-vcs.xml
-Git.iml
+.idea
